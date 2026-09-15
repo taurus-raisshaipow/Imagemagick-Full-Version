@@ -236,4 +236,4 @@ This repository serves as the official landing page for ImageMagick. The softwar
 **Get the most recent version of ImageMagick today!**
 
 ---
-**Last updated:** 2026-09-15 00:08:01 UTC
+**Last updated:** 2026-09-15 05:39:25 UTC
